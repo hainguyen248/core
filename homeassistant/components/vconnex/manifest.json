@@ -1,0 +1,15 @@
+{
+  "domain": "vconnex",
+  "name": "Vconnex",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/vconnex",
+  "requirements": ["paho-mqtt"],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@hiep2902"
+  ],
+  "iot_class": "cloud_push"
+}
